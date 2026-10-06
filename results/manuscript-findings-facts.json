@@ -1,0 +1,374 @@
+{
+  "status": "EXPLORATORY_DESCRIPTIVE_NOT_ACCEPTANCE_CERTIFICATION",
+  "inputs": {
+    "videos": "3b4b206d6bf766f444636e0d6b26eb71ddbef267486e6d4548c04a085e1a839c",
+    "interactions": "08495cd5d5fa8c262875c205fa0e9b34020476cdafe2dc2a089cdb548167e68c",
+    "event_metadata": "5fbca4f7116ecdf8347794c6300ffbe26be4c47ddb8e20d74cb1f137389453a8"
+  },
+  "mapping_source": "unique event-metadata cell by parsed link video ID and event; all 5967 interaction cells agree",
+  "core_videos": 278,
+  "exploratory_videos": 26,
+  "core_supply": {
+    "简体中文（大陆）": {
+      "videos": 38,
+      "events": {
+        "E1": 31,
+        "E3": 3,
+        "E2": 4
+      },
+      "score_mean": -0.2303,
+      "frame_counts": {
+        "high-threat": 21,
+        "no-threat": 3,
+        "balanced": 13,
+        "no-signal": 1
+      },
+      "treatment_videos": 29
+    },
+    "繁体中文（台港）": {
+      "videos": 19,
+      "events": {
+        "E1": 12,
+        "E3": 4,
+        "E2": 3
+      },
+      "score_mean": -0.1079,
+      "frame_counts": {
+        "high-threat": 10,
+        "balanced": 8,
+        "no-threat": 1
+      },
+      "treatment_videos": 18
+    },
+    "英文": {
+      "videos": 221,
+      "events": {
+        "E2": 81,
+        "E1": 81,
+        "E3": 59
+      },
+      "score_mean": -0.5467,
+      "frame_counts": {
+        "high-threat": 201,
+        "balanced": 9,
+        "no-threat": 9,
+        "no-signal": 2
+      },
+      "treatment_videos": 181
+    }
+  },
+  "comments": {
+    "简体中文（大陆）": {
+      "units": 1268,
+      "videos": 27,
+      "counts": {
+        "R01": 84,
+        "R02": 57,
+        "R03": 210,
+        "R04": 99,
+        "R05": 667,
+        "R99": 151
+      },
+      "unit_percent": {
+        "R01": 6.6246,
+        "R02": 4.4953,
+        "R03": 16.5615,
+        "R04": 7.8076,
+        "R05": 52.6025,
+        "R99": 11.9085
+      },
+      "mean_video_percent": {
+        "R01": 6.5308,
+        "R02": 4.8151,
+        "R03": 16.4643,
+        "R04": 7.9824,
+        "R05": 52.2145,
+        "R99": 11.993
+      },
+      "perceived_threat_counts": {
+        "none": 905,
+        "low": 74,
+        "moderate": 170,
+        "high": 119
+      }
+    },
+    "繁体中文（台港）": {
+      "units": 631,
+      "videos": 19,
+      "counts": {
+        "R01": 46,
+        "R02": 50,
+        "R03": 25,
+        "R04": 61,
+        "R05": 249,
+        "R99": 200
+      },
+      "unit_percent": {
+        "R01": 7.29,
+        "R02": 7.9239,
+        "R03": 3.962,
+        "R04": 9.6672,
+        "R05": 39.4612,
+        "R99": 31.6957
+      },
+      "mean_video_percent": {
+        "R01": 6.7512,
+        "R02": 6.5058,
+        "R03": 3.7689,
+        "R04": 8.2143,
+        "R05": 44.6406,
+        "R99": 30.1191
+      },
+      "perceived_threat_counts": {
+        "moderate": 109,
+        "high": 92,
+        "none": 396,
+        "low": 34
+      }
+    },
+    "英文": {
+      "units": 2750,
+      "videos": 55,
+      "counts": {
+        "R01": 301,
+        "R02": 178,
+        "R03": 304,
+        "R04": 70,
+        "R05": 1308,
+        "R99": 589
+      },
+      "unit_percent": {
+        "R01": 10.9455,
+        "R02": 6.4727,
+        "R03": 11.0545,
+        "R04": 2.5455,
+        "R05": 47.5636,
+        "R99": 21.4182
+      },
+      "mean_video_percent": {
+        "R01": 10.9455,
+        "R02": 6.4727,
+        "R03": 11.0545,
+        "R04": 2.5455,
+        "R05": 47.5636,
+        "R99": 21.4182
+      },
+      "perceived_threat_counts": {
+        "none": 1574,
+        "moderate": 621,
+        "high": 380,
+        "low": 175
+      }
+    }
+  },
+  "E1_comments": {
+    "简体中文（大陆）": {
+      "units": 970,
+      "videos": 20,
+      "counts": {
+        "R01": 62,
+        "R02": 25,
+        "R03": 159,
+        "R04": 69,
+        "R05": 546,
+        "R99": 109
+      },
+      "unit_percent": {
+        "R01": 6.3918,
+        "R02": 2.5773,
+        "R03": 16.3918,
+        "R04": 7.1134,
+        "R05": 56.2887,
+        "R99": 11.2371
+      },
+      "mean_video_percent": {
+        "R01": 6.2389,
+        "R02": 2.5,
+        "R03": 16.3339,
+        "R04": 7.4921,
+        "R05": 56.0122,
+        "R99": 11.4229
+      },
+      "perceived_threat_counts": {
+        "none": 731,
+        "low": 57,
+        "moderate": 125,
+        "high": 57
+      }
+    },
+    "繁体中文（台港）": {
+      "units": 409,
+      "videos": 12,
+      "counts": {
+        "R01": 35,
+        "R02": 43,
+        "R03": 9,
+        "R04": 42,
+        "R05": 167,
+        "R99": 113
+      },
+      "unit_percent": {
+        "R01": 8.5575,
+        "R02": 10.5134,
+        "R03": 2.2005,
+        "R04": 10.2689,
+        "R05": 40.8313,
+        "R99": 27.6284
+      },
+      "mean_video_percent": {
+        "R01": 7.564,
+        "R02": 8.8623,
+        "R03": 2.2826,
+        "R04": 8.3092,
+        "R05": 49.6612,
+        "R99": 23.3207
+      },
+      "perceived_threat_counts": {
+        "moderate": 78,
+        "high": 60,
+        "none": 247,
+        "low": 24
+      }
+    },
+    "英文": {
+      "units": 900,
+      "videos": 18,
+      "counts": {
+        "R01": 104,
+        "R02": 46,
+        "R03": 81,
+        "R04": 16,
+        "R05": 429,
+        "R99": 224
+      },
+      "unit_percent": {
+        "R01": 11.5556,
+        "R02": 5.1111,
+        "R03": 9.0,
+        "R04": 1.7778,
+        "R05": 47.6667,
+        "R99": 24.8889
+      },
+      "mean_video_percent": {
+        "R01": 11.5556,
+        "R02": 5.1111,
+        "R03": 9.0,
+        "R04": 1.7778,
+        "R05": 47.6667,
+        "R99": 24.8889
+      },
+      "perceived_threat_counts": {
+        "none": 539,
+        "moderate": 199,
+        "high": 77,
+        "low": 85
+      }
+    }
+  },
+  "bilibili_danmaku": {
+    "units": 1318,
+    "videos": 20,
+    "counts": {
+      "R01": 97,
+      "R02": 11,
+      "R03": 50,
+      "R04": 34,
+      "R05": 794,
+      "R99": 332
+    },
+    "unit_percent": {
+      "R01": 7.3596,
+      "R02": 0.8346,
+      "R03": 3.7936,
+      "R04": 2.5797,
+      "R05": 60.2428,
+      "R99": 25.1897
+    },
+    "mean_video_percent": {
+      "R01": 6.0099,
+      "R02": 2.0899,
+      "R03": 3.0817,
+      "R04": 2.6618,
+      "R05": 56.3879,
+      "R99": 29.7688
+    },
+    "perceived_threat_counts": {
+      "moderate": 165,
+      "none": 978,
+      "low": 148,
+      "high": 27
+    }
+  },
+  "covariation_all": {
+    "videos": 101,
+    "comments": 4649,
+    "rho_score_R01": -0.3193,
+    "rho_score_R02_R04": -0.0343,
+    "rho_score_perceived_threat": -0.2846
+  },
+  "covariation_by_cell": {
+    "简体中文（大陆）": {
+      "videos": 27,
+      "comments": 1268,
+      "rho_score_R01": -0.324,
+      "rho_score_R02_R04": 0.2045,
+      "rho_score_perceived_threat": 0.0426
+    },
+    "繁体中文（台港）": {
+      "videos": 19,
+      "comments": 631,
+      "rho_score_R01": -0.4578,
+      "rho_score_R02_R04": -0.4362,
+      "rho_score_perceived_threat": 0.0448
+    },
+    "英文": {
+      "videos": 55,
+      "comments": 2750,
+      "rho_score_R01": -0.08,
+      "rho_score_R02_R04": -0.1971,
+      "rho_score_perceived_threat": -0.228
+    }
+  },
+  "descriptive_groups": {
+    "risk_more": {
+      "videos": 80,
+      "comments": 3903,
+      "mean_video_R01_percent": 10.0727,
+      "mean_video_R02_R04_percent": 22.9137
+    },
+    "other_frames": {
+      "videos": 21,
+      "comments": 746,
+      "mean_video_R01_percent": 4.7995,
+      "mean_video_R02_R04_percent": 19.6316
+    },
+    "recommendation_present": {
+      "videos": 84,
+      "comments": 3814,
+      "mean_video_R01_percent": 9.4265,
+      "mean_video_R02_R04_percent": 22.4896
+    },
+    "recommendation_absent": {
+      "videos": 17,
+      "comments": 835,
+      "mean_video_R01_percent": 6.7516,
+      "mean_video_R02_R04_percent": 20.9549
+    }
+  },
+  "omitted": [
+    "Independent semantic review and coding reliability",
+    "Segmentation/window-boundary and off-topic sensitivity",
+    "Title recoding and title-transcript comparison",
+    "Published-framework cluster procedure and EPPM threat-by-efficacy classification",
+    "Confidence intervals, p values, confounder-adjusted models and causal mediation"
+  ],
+  "interpretation": [
+    "risk_benefit_score measures benefits versus risks; benefit is not response efficacy",
+    "treatment_present denotes an institutional suggestion somewhere in the transcript, not proven actionability or self-efficacy",
+    "frame labels are deterministic count summaries, not fitted published-framework clusters",
+    "rho is descriptive and unadjusted; no significance or null-effect claim",
+    "ecological cell labels are source classifications, not verified viewer residence"
+  ],
+  "aggregation_script": "scripts/build_manuscript_findings.py",
+  "aggregation_script_sha256": "d8e86c8b6352059983e1877f0fdffca6404f17b1d6c837ccc653bfff8f2b3a51"
+}

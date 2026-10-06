@@ -2,7 +2,7 @@
 
 Video narratives and audience responses on Bilibili and YouTube.
 
-**Status: research in progress.** This repository provides supporting materials for a proposed IASEAI 2027 talk. It is an initial documentation and coding-protocol release, not a completed empirical paper or an executable reproduction package. Proposal acceptance has not been confirmed.
+**Status: research in progress.** This repository provides supporting materials for a proposed IASEAI 2027 talk. This release includes preliminary descriptive findings, reduced coded data, and executable aggregation scripts. It is not a completed empirical paper or an independently validated coding study. Proposal acceptance has not been confirmed.
 
 ## Research questions
 
@@ -16,6 +16,10 @@ Video narratives and audience responses on Bilibili and YouTube.
 - [Talk proposal](docs/talk-proposal.md): presentation description and audience takeaways.
 - [One-page supporting PDF](materials/supporting-research-note.pdf).
 - [Coding prompts](methods/prompts/) and [output schemas](methods/schemas/): current operational artifacts, released for inspection. They require semantic validation; schema compliance alone is not coding reliability.
+- **[Preliminary findings](docs/preliminary-findings.md).**
+- [Current Chinese manuscript: findings, discussion and conclusion](docs/manuscript-findings-zh.md).
+- **[Reproduce the released findings](REPRODUCING.md).**
+- [Reduced coded data](data/) and [computed outputs](results/).
 - [Methods and release boundaries](methods/README.md).
 
 ## Corpus
@@ -29,7 +33,7 @@ Video narratives and audience responses on Bilibili and YouTube.
 
 Selected platform/content split: Bilibili 35, English-language YouTube 236, Chinese-language YouTube 33. These platform/content counts must not be equated with inferred geographical populations.
 
-The linked interactions have structured recoding records and completed schema/quotation checks. Transcript recoding, independent reliability assessment, and aggregate analysis remain in progress. Counts describe data assets; they are not substantive findings. Prior exploratory statistics are not supplied as evidence here.
+The linked interactions have structured recoding records and completed schema/quotation checks. Recoding and descriptive aggregation are complete: 304 transcripts / 840 windows and 5,967 interactions. Independent semantic review, coding reliability, segmentation and off-topic sensitivity, and adjusted inference remain outstanding. Counts describe data assets; they are not substantive findings. Prior exploratory statistics are not supplied as evidence here.
 
 ## Evidence limits
 
@@ -37,13 +41,13 @@ This observational, selective corpus cannot establish population attitudes or ca
 
 ## Data availability
 
-Raw transcripts, audience text, account identifiers, private correspondence, credentials, and internal review logs are not included in this release. Data redistribution and anonymization require a separate review. No public full-data release is promised at this stage.
+Reduced numeric/categorical coding records and public-video metadata are released to reproduce aggregation. Raw transcripts, audience text, commenter/account identifiers, private correspondence, credentials, and internal review logs are not included. Data redistribution and anonymization require a separate review. No public full-data release is promised at this stage.
 
 ## Planned additions
 
-- Validated aggregate tables, with units, effective sample sizes, and uncertainty.
+- Independently validated aggregate tables and uncertainty estimates.
 - Independent coding reliability reports and documented disagreements.
-- Analysis code, environment specification, and number-level recomputation manifest.
+- Expansion from released aggregation reproduction to independently checked coding and sensitivity analyses.
 - A clear public data-access and redistribution policy.
 
 ## Attribution and AI assistance
@@ -52,4 +56,4 @@ Maintained by Xiaochuan Wang in connection with research and community work at 7
 
 Funding and competing-interest declarations are pending confirmation and will be completed separately for the conference submission.
 
-Last updated: 6 October 2026.
+Last updated: 6 October 2026 (preliminary-findings release).

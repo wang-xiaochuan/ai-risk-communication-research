@@ -16,4 +16,4 @@ Independent semantic review and coding reliability, cross-language equivalence, 
 
 ## Reproduction status
 
-This release contains no raw research corpus, complete execution environment, or aggregate-analysis runner. It cannot independently reproduce the study's results. Future reproducibility releases must declare input hashes, versions, analysis units, exclusions, and mechanically derived statistics.
+This release includes reduced coded records, a 304-row video table, public-video event metadata, and Python standard-library aggregation scripts. Follow `../REPRODUCING.md` to regenerate and compare every released numeric finding. It reproduces aggregation conditional on the supplied codes, not the original acquisition, source-text judgments, or independent coding reliability. Input/release hashes and full comparison references are included.

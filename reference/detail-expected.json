@@ -1,0 +1,387 @@
+{
+  "comment_code_threat_cross": {
+    "简体中文（大陆）": {
+      "R01": {
+        "threat_levels": {
+          "high": 8,
+          "low": 14,
+          "moderate": 48,
+          "none": 14
+        },
+        "units": 84
+      },
+      "R02": {
+        "threat_levels": {
+          "high": 46,
+          "low": 3,
+          "moderate": 7,
+          "none": 1
+        },
+        "units": 57
+      },
+      "R03": {
+        "threat_levels": {
+          "high": 5,
+          "moderate": 17,
+          "none": 188
+        },
+        "units": 210
+      },
+      "R04": {
+        "threat_levels": {
+          "high": 9,
+          "low": 2,
+          "moderate": 21,
+          "none": 67
+        },
+        "units": 99
+      },
+      "R05": {
+        "threat_levels": {
+          "high": 51,
+          "low": 55,
+          "moderate": 77,
+          "none": 484
+        },
+        "units": 667
+      },
+      "R99": {
+        "threat_levels": {
+          "none": 151
+        },
+        "units": 151
+      }
+    },
+    "繁体中文（台港）": {
+      "R01": {
+        "threat_levels": {
+          "high": 12,
+          "low": 6,
+          "moderate": 23,
+          "none": 5
+        },
+        "units": 46
+      },
+      "R02": {
+        "threat_levels": {
+          "high": 38,
+          "low": 1,
+          "moderate": 10,
+          "none": 1
+        },
+        "units": 50
+      },
+      "R03": {
+        "threat_levels": {
+          "high": 1,
+          "moderate": 5,
+          "none": 19
+        },
+        "units": 25
+      },
+      "R04": {
+        "threat_levels": {
+          "high": 10,
+          "moderate": 21,
+          "none": 30
+        },
+        "units": 61
+      },
+      "R05": {
+        "threat_levels": {
+          "high": 31,
+          "low": 27,
+          "moderate": 50,
+          "none": 141
+        },
+        "units": 249
+      },
+      "R99": {
+        "threat_levels": {
+          "none": 200
+        },
+        "units": 200
+      }
+    },
+    "英文": {
+      "R01": {
+        "threat_levels": {
+          "high": 63,
+          "low": 39,
+          "moderate": 133,
+          "none": 66
+        },
+        "units": 301
+      },
+      "R02": {
+        "threat_levels": {
+          "high": 93,
+          "low": 2,
+          "moderate": 77,
+          "none": 6
+        },
+        "units": 178
+      },
+      "R03": {
+        "threat_levels": {
+          "high": 18,
+          "low": 9,
+          "moderate": 64,
+          "none": 213
+        },
+        "units": 304
+      },
+      "R04": {
+        "threat_levels": {
+          "high": 16,
+          "low": 2,
+          "moderate": 21,
+          "none": 31
+        },
+        "units": 70
+      },
+      "R05": {
+        "threat_levels": {
+          "high": 190,
+          "low": 122,
+          "moderate": 326,
+          "none": 670
+        },
+        "units": 1308
+      },
+      "R99": {
+        "threat_levels": {
+          "low": 1,
+          "none": 588
+        },
+        "units": 589
+      }
+    }
+  },
+  "core_supply_detail": {
+    "简体中文（大陆）": {
+      "evaluation_counts": {
+        "mixed": 23,
+        "negative": 14,
+        "none": 1
+      },
+      "recommendation_receivers_video_union": {
+        "industry": 19,
+        "political": 11
+      },
+      "recommendation_types_video_union": {
+        "ethics-standards": 5,
+        "funding": 1,
+        "other": 11,
+        "regulation": 10,
+        "safety-research": 4
+      },
+      "risk_more_and_recommendation": 13,
+      "risk_more_but_mixed_evaluation": 8,
+      "risk_more_without_recommendation": 8,
+      "videos": 38
+    },
+    "繁体中文（台港）": {
+      "evaluation_counts": {
+        "mixed": 9,
+        "negative": 10
+      },
+      "recommendation_receivers_video_union": {
+        "industry": 8,
+        "political": 13
+      },
+      "recommendation_types_video_union": {
+        "ethics-standards": 2,
+        "funding": 1,
+        "other": 7,
+        "regulation": 10,
+        "safety-research": 4
+      },
+      "risk_more_and_recommendation": 10,
+      "risk_more_but_mixed_evaluation": 3,
+      "risk_more_without_recommendation": 0,
+      "videos": 19
+    },
+    "英文": {
+      "evaluation_counts": {
+        "mixed": 41,
+        "negative": 172,
+        "none": 2,
+        "positive": 6
+      },
+      "recommendation_receivers_video_union": {
+        "academia": 10,
+        "industry": 109,
+        "other": 2,
+        "political": 108,
+        "public": 14
+      },
+      "recommendation_types_video_union": {
+        "ethics-standards": 36,
+        "funding": 8,
+        "other": 68,
+        "regulation": 107,
+        "safety-research": 39
+      },
+      "risk_more_and_recommendation": 165,
+      "risk_more_but_mixed_evaluation": 33,
+      "risk_more_without_recommendation": 36,
+      "videos": 221
+    }
+  },
+  "english_event_detail": {
+    "E1": {
+      "comment_units": 900,
+      "comment_videos": 18,
+      "counts": {
+        "R01": 104,
+        "R02": 46,
+        "R03": 81,
+        "R04": 16,
+        "R05": 429,
+        "R99": 224
+      },
+      "recommendation_videos": 70,
+      "score_mean": -0.5878,
+      "transcript_videos": 81,
+      "unit_percent": {
+        "R01": 11.5556,
+        "R02": 5.1111,
+        "R03": 9.0,
+        "R04": 1.7778,
+        "R05": 47.6667,
+        "R99": 24.8889
+      }
+    },
+    "E2": {
+      "comment_units": 900,
+      "comment_videos": 18,
+      "counts": {
+        "R01": 98,
+        "R02": 95,
+        "R03": 50,
+        "R04": 17,
+        "R05": 489,
+        "R99": 151
+      },
+      "recommendation_videos": 57,
+      "score_mean": -0.6072,
+      "transcript_videos": 81,
+      "unit_percent": {
+        "R01": 10.8889,
+        "R02": 10.5556,
+        "R03": 5.5556,
+        "R04": 1.8889,
+        "R05": 54.3333,
+        "R99": 16.7778
+      }
+    },
+    "E3": {
+      "comment_units": 950,
+      "comment_videos": 19,
+      "counts": {
+        "R01": 99,
+        "R02": 37,
+        "R03": 173,
+        "R04": 37,
+        "R05": 390,
+        "R99": 214
+      },
+      "recommendation_videos": 54,
+      "score_mean": -0.4073,
+      "transcript_videos": 59,
+      "unit_percent": {
+        "R01": 10.4211,
+        "R02": 3.8947,
+        "R03": 18.2105,
+        "R04": 3.8947,
+        "R05": 41.0526,
+        "R99": 22.5263
+      }
+    }
+  },
+  "event_covariation": {
+    "E1": {
+      "comments": 2279,
+      "rho_score_R01": -0.3606,
+      "rho_score_R02_R04": 0.1381,
+      "videos": 50
+    },
+    "E2": {
+      "comments": 1135,
+      "rho_score_R01": -0.1117,
+      "rho_score_R02_R04": 0.2369,
+      "videos": 25
+    },
+    "E3": {
+      "comments": 1235,
+      "rho_score_R01": -0.3109,
+      "rho_score_R02_R04": -0.5086,
+      "videos": 26
+    }
+  },
+  "paired_comment_danmaku": {
+    "comment": {
+      "counts": {
+        "R01": 66,
+        "R02": 38,
+        "R03": 155,
+        "R04": 70,
+        "R05": 519,
+        "R99": 90
+      },
+      "mean_video_percent": {
+        "R01": 6.8832,
+        "R02": 4.6004,
+        "R03": 16.1268,
+        "R04": 7.6762,
+        "R05": 54.7562,
+        "R99": 9.9572
+      },
+      "units": 938
+    },
+    "danmaku": {
+      "counts": {
+        "R01": 97,
+        "R02": 11,
+        "R03": 50,
+        "R04": 34,
+        "R05": 794,
+        "R99": 332
+      },
+      "mean_video_percent": {
+        "R01": 6.0099,
+        "R02": 2.0899,
+        "R03": 3.0817,
+        "R04": 2.6618,
+        "R05": 56.3879,
+        "R99": 29.7688
+      },
+      "units": 1318
+    },
+    "paired_videos": 20,
+    "video_ids": [
+      "BV1aoat6SEC3",
+      "BV13sgD6sEF9",
+      "BV1bLgY6qEWn",
+      "BV12MgL6EE6W",
+      "BV1BBg96GEDu",
+      "BV1bXgh6eErz",
+      "BV1suhR6CEnD",
+      "BV1umgS6DE6d",
+      "BV1WCgr6nEy7",
+      "BV12aYP6kEyo",
+      "BV1WUt86FENe",
+      "BV1iH3763EQb",
+      "BV1ahgC6TERK",
+      "BV1KRhw6AEGE",
+      "BV1Gd3r6KEtH",
+      "BV1adax6kEpE",
+      "BV1THgy6AEDb",
+      "BV1dFe16zET7",
+      "BV1WaY36dEg3",
+      "BV1K63f6gE2m"
+    ]
+  },
+  "status": "EXPLORATORY_DETAIL_NO_RECODING"
+}

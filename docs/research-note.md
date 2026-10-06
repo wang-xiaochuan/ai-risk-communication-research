@@ -28,9 +28,9 @@ Analyses of supply–reception relationships use videos as the alignment unit an
 
 ### Status and validation
 
-Data collection and transcription for the selected set are complete. The 5,967 linked interactions have structured recoding records; formal schema and quotation checks have been completed. These checks do not establish semantic accuracy or independent coding reliability. Transcript recoding, reliability assessment, and aggregate analysis remain in progress.
+Data collection and transcription for the selected set are complete. The 5,967 linked interactions have structured recoding records; formal schema and quotation checks have been completed. These checks do not establish semantic accuracy or independent coding reliability. Recoding and descriptive aggregation are now complete for all 304 transcripts (840 windows) and 5,967 linked interactions. Independent reliability assessment, semantic review, and segmentation/off-topic sensitivity remain outstanding. Preliminary descriptive results and executable aggregation scripts are available in this repository.
 
-Substantive statistics from earlier exploratory outputs are not offered as evidence in this proposal. Any quantitative results used in the presentation will require traceable item-level records, reproducible aggregation, and explicit reliability and uncertainty reporting. No causal mediation claim is made.
+Statistics from earlier withdrawn outputs are not offered as evidence. The current preliminary results derive from the resolved recoding records; they remain descriptive and unadjusted. Any quantitative results used in the presentation will require traceable item-level records, reproducible aggregation, and explicit reliability and uncertainty reporting. No causal mediation claim is made.
 
 ### Presentation contribution
 
@@ -39,3 +39,7 @@ The talk will show how a communication audit can distinguish attention-seeking h
 ### Limits
 
 The event and view-coverage design is selective. Observed interactions cannot establish population attitudes, geographical residence, or the private beliefs of commenters. Platform and language effects cannot automatically be separated. Statistical associations, if supported, will not establish that a video caused an audience response.
+
+### Preliminary descriptive observations
+
+In core transcripts, risk-more coding and institutional recommendations co-occur in 13/21 Simplified Chinese, 10/10 Traditional Chinese and 165/201 English videos. Recommendations principally address industry and political institutions. Comments have technical/neutral discourse as their largest category in all three groups, while commercial-motive skepticism, othering and danger-control demands have different observed proportions. Risk-benefit score and danger-control comment share have an unadjusted Spearman correlation of -0.3193 across 101 comment-bearing videos. This is a descriptive association, not a causal or significance claim. The current manuscript's findings, discussion and conclusion are included as a public excerpt, with source-text case paragraphs omitted.
