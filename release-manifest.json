@@ -1,0 +1,54 @@
+{
+  "release": "initial-supporting-materials",
+  "date": "2026-10-06",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "849d5b0b0bc4684fe9a5c18df99cda0bf77a8711dda9c751bcf046dc75d8e3a7"
+    },
+    {
+      "path": "README.md",
+      "sha256": "2f210f8836028ea80eb8adec6527386c7f7eef925808b49fe235fb217ca7abce"
+    },
+    {
+      "path": "docs/research-note.md",
+      "sha256": "283240131952a82a78399b71b479a9810ab10bf6819f30487f5d408c63dfe3f0"
+    },
+    {
+      "path": "docs/talk-proposal.md",
+      "sha256": "034d41d391d70128206d3ad30c3306ddf8c4693b77c7c767e08b01962498dc87"
+    },
+    {
+      "path": "materials/supporting-research-note.pdf",
+      "sha256": "e013a7e297fa339e7bc6ca8d12b61a6ec2dbeb0eccff4ce27049332fd556678b"
+    },
+    {
+      "path": "methods/README.md",
+      "sha256": "dd4b9bb26dd2aa2326ae221f78055c97505b6337eba5ca16f48eb10fe59e6071"
+    },
+    {
+      "path": "methods/prompts/system-interaction.md",
+      "sha256": "d055bd82f3d3d287da50557bb39a588c8bd772e89439bea12444273b5d14d548"
+    },
+    {
+      "path": "methods/prompts/system-transcript-window.md",
+      "sha256": "acf96162b811f1148eb10c2d8886be2c06dd382e408772a78bff339dfda3bc8a"
+    },
+    {
+      "path": "methods/prompts/system-transcript.md",
+      "sha256": "9c72e7435e6b9971a3172951924db6d3b627aa7273bd7f842bcbeb957d9299f6"
+    },
+    {
+      "path": "methods/schemas/interaction.schema.json",
+      "sha256": "c61657c4c31c7a34f9e3c3aebee7de153b7b68a095c0a41c6b83feb8b78489b8"
+    },
+    {
+      "path": "methods/schemas/transcript-window.schema.json",
+      "sha256": "f11303b14702ddc30bbbd9b4d4537cf74a910eb25451b016b56ef27939114326"
+    },
+    {
+      "path": "methods/schemas/transcript.schema.json",
+      "sha256": "5019454ba293f4f57920990bba32c36203371cffb94c6d11778edd17f61051d2"
+    }
+  ]
+}
