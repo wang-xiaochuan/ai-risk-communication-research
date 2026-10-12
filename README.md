@@ -52,8 +52,10 @@ Reduced numeric/categorical coding records and public-video metadata are release
 
 ## Attribution and AI assistance
 
+This study originated from an idea proposed by Sarah (GitHub: [YuanyuanSunSarah](https://github.com/YuanyuanSunSarah)) and is being developed further as an ongoing research project.
+
 Maintained by Xiaochuan Wang in connection with research and community work at 706. This wording does not establish additional authorship or institutional endorsement. AI assistance is used in drafting and structured coding; human decisions and validation remain necessary. Exact model and sampling metadata are unavailable for some coding sessions and will be disclosed as missing rather than inferred.
 
 Funding and competing-interest declarations are pending confirmation and will be completed separately for the conference submission.
 
-Last updated: 6 October 2026 (preliminary-findings release).
+Last updated: 13 October 2026 (project-origin attribution updated).
