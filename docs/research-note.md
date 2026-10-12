@@ -6,6 +6,8 @@ Prepared for an IASEAI’27 talk proposal · 6 October 2026
 
 ### Purpose
 
+This study originated from an idea proposed by Sarah (GitHub: [YuanyuanSunSarah](https://github.com/YuanyuanSunSarah)) and is being developed further as an ongoing research project.
+
 This ongoing project examines how three AI safety-related events are presented in English, Simplified Chinese, and Traditional Chinese video content on Bilibili and YouTube, and how audiences respond beneath those videos. The proposed talk connects this comparative research design with practical questions for AI safety education and communication.
 
 ### Questions
