@@ -2,6 +2,8 @@
 
 Video narratives and audience responses on Bilibili and YouTube.
 
+This study originated from an idea proposed by Sarah (GitHub: [YuanyuanSunSarah](https://github.com/YuanyuanSunSarah)) and is being developed further as an ongoing research project.
+
 **Status: research in progress.** This repository provides supporting materials for a proposed IASEAI 2027 talk. This release includes preliminary descriptive findings, reduced coded data, and executable aggregation scripts. It is not a completed empirical paper or an independently validated coding study. Proposal acceptance has not been confirmed.
 
 ## Research questions
@@ -51,8 +53,6 @@ Reduced numeric/categorical coding records and public-video metadata are release
 - A clear public data-access and redistribution policy.
 
 ## Attribution and AI assistance
-
-This study originated from an idea proposed by Sarah (GitHub: [YuanyuanSunSarah](https://github.com/YuanyuanSunSarah)) and is being developed further as an ongoing research project.
 
 Maintained by Xiaochuan Wang in connection with research and community work at 706. This wording does not establish additional authorship or institutional endorsement. AI assistance is used in drafting and structured coding; human decisions and validation remain necessary. Exact model and sampling metadata are unavailable for some coding sessions and will be disclosed as missing rather than inferred.
 
